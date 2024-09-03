@@ -1,6 +1,6 @@
 # ITC Stock Analysis Dashboard 📊
 
-I’ve created a dashboard to make ITC+ stock data easy to understand. Here’s what you’ll find:
+I’ve created a dashboard to make ITC stock data easy to understand. Here’s what you’ll find:
 
 🔍 Key Numbers:
 
